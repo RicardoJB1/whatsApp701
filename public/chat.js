@@ -1,4 +1,4 @@
-var socket = io.connect('http://localhost:5000');
+var socket = io.connect('http://3.133.100.249:5000');
 
 // Elementos del DOM
 var persona = document.getElementById('login-usuario'),
